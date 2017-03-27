@@ -1,0 +1,17 @@
+#Name of the song
+song1 = input("What is the name of the song?")
+#Length in seconds
+length1 = input("What is the name of your song?")
+#Number of times the song has been played
+times1 = input("How many times have you played the song?")
+#Listening time for each song
+listen1 = length * times
+
+#Output
+print("First Song:")
+print("name: " + song1)
+print("length in seconds: " + length1)
+print("plays:" + times1)
+#Total listening time for all songs
+Print(song1 + " total play time: " + listen1)
+#Which song has been listened to the longest total amount of time
