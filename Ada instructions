@@ -1,0 +1,70 @@
+C8 Coding Challenge: Song Time Calculator
+In this portion of the application, you will complete a short coding challenge based on the Ada Jumpstart Curriculum. 
+What we’re looking for
+Ability to self-learn and apply material quickly because in Tech you will be learning everyday, forever
+Ability to grasp the fundamentals of coding so that you are ready for Day 1 of Ada
+Ability to describe code you have written, including how control flows through the program, what you tried, why you tried it, what worked and what didn’t
+
+Tools
+For this challenge, you will use this online REPL tool. If you are not sure where to get started, take a look at this lecture video that has REPL instructions and an introduction to programming concepts. The notes that go with the video are located here. 
+Assignment: Song Time Calculator
+You are going to create a program for calculating total listening time for songs, and determine which song has been listened to longest.
+Primary Requirements
+Create a song time calculator program that accepts the following input from the user for four different songs:
+Name of the song
+Length in seconds
+Number of times the song has been played
+
+
+Have the song time calculator output the following:
+Listening time for each song
+Total listening time for all songs
+Which song has been listened to the longest total amount of time
+
+
+Respond to the following prompts about the code you have written:
+Describe something that you tried that didn't work and how you eventually fixed it
+Describe a situation where your code may not perform as you would like
+Example Output
+Below is an example program output. Don’t forget, your code and program should be unique to you! User input is indicated in ~~ (tildes).
+Welcome to the song time calculator!
+
+First song:
+  name: ~Dance Yrself Clean~
+  length in seconds: ~536~
+  plays: ~12~
+
+Second song:
+  name: ~Kangaroo Court~
+  length in seconds: ~223~
+  plays: ~5~
+
+Third song:
+  name: ~On The Regular~
+  length in seconds: ~178~
+  plays: ~45~
+
+Fourth song:
+  name: ~Do It Again~
+  length in seconds: ~357~
+  plays: ~8~
+
+===SUMMARY===
+Dance Yrself Clean total play time: 6432 seconds
+Kangaroo Court total play time: 1115 seconds
+On The Regular total play time: 8010 seconds
+Do It Again total play time: 2856 seconds
+
+Total play time: 18413 seconds
+The song with the most play time: On The Regular with 8010 seconds
+
+Thank you for using the song time calculator!
+
+
+Submission Instructions
+*Note: You do not need to create an account to save your code
+Click the “Save” button on the repl.it page. This will generate a unique URL
+
+Copy the unique URL from the navigation bar or click on the “Share” button and copy the first link provided
+Verify! Open a new browser window or tab and paste in this URL to make sure it correctly shows your code in the way you expect
+Paste your REPL URL to turn in.
