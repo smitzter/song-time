@@ -1,11 +1,32 @@
+
+
+#Below is old code that doesn't work that I want to come back to sometime. 
+#4.times do
+
 #Name of the song
-song1 = input("What is the name of the song?")
+puts "First song:"
+  puts "name:"
+  song = gets.chomp
+  #song = song + 1 
 #Length in seconds
-length1 = input("What is the length of your song?")
+  puts "length in seconds:"
+  length = gets.chomp
+    length.to_i
+    #length = length + 1 
 #Number of times the song has been played
-times1 = input("How many times have you played the song?")
-#Listening time for each song
-listen1 = int(length1) * int(times1)
+  puts "plays:"
+  plays = gets.chomp
+      plays.to_i 
+      #plays = plays + 1
+      
+4.times do
+    puts "First Song:"
+    puts "name: " + song
+    puts "length in seconds: " + length
+    puts "plays:" + times
+#Total listening time for all songs
+#listen1 = length1 * times1
+#  puts song1 + " total play time: " + listen1
 
 #Output
 print("First Song:")
